@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+<title>UX ⚡ Scott Krause | JavaScript</title>
+<!--
+  _________             __    __     ____  __.                                  
+ /   _____/ ____  _____/  |__/  |_  |    |/ _|___________   __ __  ______ ____  
+ \_____  \_/ ___\/  _ \   __\   __\ |      < \_  __ \__  \ |  |  \/  ___// __ \ 
+ /        \  \__(  <_> )  |  |  |   |    |  \ |  | \// __ \|  |  /\___ \\  ___/ 
+/_______  /\___  >____/|__|  |__|   |____|__ \|__|  (____  /____//____  >\___  >
+        \/     \/                           \/           \/           \/     \/ 
+-->
+<meta charset="utf-8">
+<meta name="viewport" content="initial-scale=1, maximum-scale=2, minimum-scale=1, width=device-width, height=device-height"/>
+<meta name="description" content="Interactive Resume | TypeScript, Vanilla ES2015 ES6, React.js, a11y, WebAssembly, Jest, Three.js, D3.js, JQuery, and Meteor.js on Node.js.  I produce and advocate for optimized, asynchronous, reactive, functional, testable, and future-proof TypeScript and JavaScript.">
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@neodigm24" />
+<meta name="twitter:title" content="Scott C. Krause JavaScript Engineer and UX Designer | eCommerce, SaaS and Gamification" />
+<meta name="twitter:description" content="Privacy Paranoid | Keypad Encrypted USB | Waterproof Capsule Solution" />
+<meta name="twitter:description" content="Node.js Meteor.js JavaScript TypeScript Vue.js React.js Redux Angular Three.js" />
+<meta name="twitter:image" content="http://thescottkrause.com/ux/typescript/engineer/wasm/javascript_typescript_developer.jpg" />
+
+<meta property="og:title" content="Scott C. Krause Front-end Engineer | Node.js TypeScript WASM React Vue.js">
+<meta property="og:site_name" content="Scott C. Krause JavaScript Developer">
+<meta property="og:url" content="http://thescottkrause.com/">
+<meta property="og:description" content="I craft high-fidelity prototypes and then build responsive, accessible, and aesthetically delightful interfaces. I produce and advocate for optimized, asynchronous, reactive, functional, testable, and future-proof TypeScript and JavaScript.">
+<meta property="og:type" content="website">
+<meta property="og:image" content="http://thescottkrause.com/ux/typescript/engineer/wasm/javascript_typescript_developer.jpg">
+<style type="text/css">
+
+    .l-snackbar .snackbar__cont{border-radius:4px;background:linear-gradient(45deg,#a29980 0%,#665f50 100%);box-shadow:inset #665f50 0 0 6px 2px;border:solid 1px #d3cdb4;left:38%;min-width:188px;padding:0;position:fixed;transition:bottom .6s ease-in-out;user-select:none;z-index:6408}.l-snackbar .snackbar__cont--hide{bottom:-112px;transition:bottom .6s ease-in-out}.l-snackbar .snackbar__cont--show{bottom:4px;transition:bottom .6s ease-in-out}.l-snackbar .snackbar__progbar{background-color:#edba08;height:2px;padding:0;margin:0;position:relative;top:2px}.l-snackbar .snackbar__cont--hide .snackbar__progbar{width:0%;transition:all .1s ease-in-out}.l-snackbar .snackbar__cont--show .snackbar__progbar{width:101%;transition:all 6s ease-in-out}.l-snackbar .snackbar__msg{color:#fff;font-family:sans-serif;font-size:16px;margin:20px;text-align:center;white-space:nowrap}
+    .l-reveal .reveal__box
+    {position: absolute;z-index: 1005;top: 0;right: 0;left: 0;
+    display: block!important;width: 100%;margin: 0 auto;padding: 8px;border: solid 1px #666;border-radius: 6px;background-color: #fff;box-shadow: 0 0 10px rgba(0,0,0,.4);
+    }.l-reveal .reveal__scrim
+    {position: fixed;z-index: 8;top: 0;right: 0;bottom: 0;left: 0;display: block!important;min-height: 100%;cursor: pointer;
+    background: linear-gradient(rgba(228,198,126,.32),rgba(188,130,19,.68));background-position: 50% 0;background-size: cover;
+    }.l-reveal .reveal-modal{display: none;}
+    .l-reveal .small{width: 40%;}.l-reveal .medium{width: 60%;}.l-reveal .large{width: 76%;}
+    .l-reveal .resp_x, .resp_x:hover
+    {font-family: monospace;font-size: 28px;font-weight: 800;
+    position: absolute;top: 2px;right: 10px;cursor: pointer;color: #444!important;}
+    .l-reveal .resp_x:hover{color: #444!important;}
+    .l-reveal .eml-msg__x{position: absolute;top: -42px;right: -18px;}
+
+
+body {
+background: rgb(255,255,255);
+background: linear-gradient(311deg, rgba(255,255,255,1) 0%, rgba(155,183,212,1) 100%);
+}
+h2 {
+  color: #FF6F61;
+  text-align: center;
+  font-family: 'Lobster', cursive;
+  font-size: 42px;
+  margin: 14px;
+}
+h3 {
+  color: #5A5B9F;
+  text-align: center;
+  font-family: 'Lobster', cursive;
+  font-size: 22px;
+  margin: 24px;
+}
+section img{
+  max-width: 256px;
+  height: auto;
+  margin: 4px; padding: 4px;
+}
+
+</style>
+<link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
+<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+<link href="https://fonts.googleapis.com/css?family=Lobster&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <main role="main">
+<h2>Vivid Digital Alchemy</h2>
+<section class="portf" data-flickity='{ "cellAlign": "left", "contain": true, "autoPlay": true,"groupCells": true }'>
+<img src="https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/1.jpg" alt="">
+<img src="https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/2.jpg" alt="">
+<img src="https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/3.jpg" alt="">
+<img src="https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/4.jpg" alt="">
+<img src="https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/5.jpg" alt="">
+<img src="https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/6.jpg" alt="">
+<img src="https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/7.jpg" alt="">
+<img src="https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/8.jpg" alt="">
+<img src="https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/9.jpg" alt="">
+<img src="https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/10.jpg" alt="">
+<img src="https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/11.jpg" alt="">
+<img src="https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/12.jpg" alt="">
+<img src="https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/13.jpg" alt="">
+<img src="https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/14.jpg" alt="">
+<img src="https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/15.jpg" alt="">
+<img src="https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/16.jpg" alt="">
+<img src="https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/17.jpg" alt="">
+<img src="https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/18.jpg" alt="">
+</section>
+<br>
+<h3>Scott C. Krause</h3>
+        </main>
+
+<a55-rv class="l-reveal reveal__init">
+    <div id="js-rev__mcsd--id" class="reveal-modal small" data-reveal aria-hidden="true">
+        <a class="close-reveal-modal resp_x eml-msg__x">
+        <svg fill="#FFF" height="48" viewBox="0 0 22 22" width="48" xmlns="http://www.w3.org/2000/svg"><path d="M0 0h24v24H0z" fill="none"/><path d="M14.59 8L12 10.59 9.41 8 8 9.41 10.59 12 8 14.59 9.41 16 12 13.41 14.59 16 16 14.59 13.41 12 16 9.41 14.59 8zM12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"/></svg>
+        </a>
+        <img style="display: block; margin: 0 auto;"
+        src="https://www.thescottkrause.com/ux/typescript/engineer/wasm/certifications_microsoft_mcsd.jpg" alt="Microsoft Certified Solution Developer">
+    </div>
+</a55-rv>
+
+<a55-rv class="l-reveal"><!-- Component Begin --> 
+    <aside id="id-reveal__scrim" class="close-reveal-modal"></aside> 
+</a55-rv><!-- Component End --> 
+
+<ltdc-snackbar class="l-snackbar" role="alert"><!--  Component Begin  -->
+    <section id="js-snackbar__id" class="snackbar__cont snackbar__cont--hide" aria-live="polite" aria-atomic="true">
+        <div class="snackbar__progbar"></div>
+        <p class="snackbar__msg"></p>
+    </section>
+</ltdc-snackbar><!--  Component End  -->
+
+<script defer src="ux/typescript/engineer/snackbar/snackbar.js"></script>
+<script defer src="ux/typescript/engineer/reveal/reveal.js"></script>
+
+        <script>
+
+var oD = document;
+var CnfState = {"audio": false};
+var AudioContext = window.AudioContext || false;
+if (AudioContext) {
+  CnfState.audio = true;    //    Icanuse
+  var oAudContx = new AudioContext();    //    HTML5 Audio
+  var oAJAXReq = new XMLHttpRequest();   //    Get Sounds
+  var aAudioBuffer = new Array(18);       //    Store Sound files
+  var fetchSoundConfig = {sound_max: 18, sound_current: 1};    //    Sound limits
+  setTimeout( function(){ fetchSound(); }, 5600);
+}
+function fetchSound() {
+    //    AJAX a single sound binary
+    oAJAXReq.open("GET", "au/a" + fetchSoundConfig.sound_current + ".mp3", true);
+    oAJAXReq.responseType = "arraybuffer";
+    oAJAXReq.send();
+    oAJAXReq.onload = fetchSoundonload;
+}
+function fetchSoundonload() {
+    //    The audio file has loaded via AJAX
+    oAudContx.decodeAudioData(oAJAXReq.response, function (decAudBuf) {
+        aAudioBuffer[ fetchSoundConfig.sound_current ] = decAudBuf;
+        fetchSoundConfig.sound_current = fetchSoundConfig.sound_current + 1;
+        if(fetchSoundConfig.sound_current <= fetchSoundConfig.sound_max){
+            oAJAXReq = new XMLHttpRequest();
+            oAJAXReq.responseType = "arraybuffer";
+            fetchSound( fetchSoundConfig.sound_current );
+        }
+    });
+};
+function playAudioFile( nSound ) {
+  if( CnfState.audio === true ){  //  Play MP3 if sound toggle is true
+    try{
+        nSound = nSound + 8;
+      var oSrc = oAudContx.createBufferSource();
+      var volume = oAudContx.createGain();
+      oSrc.buffer = aAudioBuffer[nSound];
+      oSrc.connect(volume);
+      volume.connect(oAudContx.destination);
+      oSrc.connect(oAudContx.destination);
+      oSrc.start(oAudContx.currentTime);
+    } catch( e ){}
+  }
+};
+function playAudioRand( aSound ){  //  Either Or | array | max 2
+  playAudioFile( aSound[Math.random()+.5|0]);
+}
+
+oD.addEventListener( "contextmenu", function(e) { playAudioFile( 7 ); });  //  On right-click
+
+console.log("%c Scott C. Krause ⚡ Problem Solver and Visual Storyteller", "background: #000; color: #f4dc5e; font-size: 28px");
+
+        </script>
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Lake County",
+        "addressRegion": "IL",
+        "postalCode": "60031"
+      },
+      "email": "neo5ive@gmail.com",
+      "image": "http://www.thescottkrause.com/ux/typescript/engineer/wasm/self.png",
+      "jobTitle": "Sr. UX Front-end Engineer",
+      "name": "Scott Krause",
+      "url": "https://www.theScottKrause.com",
+	    "sameAs" : [ "https://github.com/neodigm",
+      "https://repl.it/@neodigm",
+      "https://twitter.com/neodigm24"]
+    }
+</script>
+    </body>
+</html>
