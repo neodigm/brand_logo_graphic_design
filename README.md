@@ -1,6 +1,7 @@
 [![License: BSD](https://badgen.net/badge/license/BSD/orange)](https://opensource.org/licenses/BSD-3-Clause)
 # brand_logo_graphic_design
 A brief history of my logo and branded visual graphic designs.
+#
 ![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/1.jpg)
 ![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/2.jpg)
 ![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/3.jpg)
@@ -19,7 +20,8 @@ A brief history of my logo and branded visual graphic designs.
 ![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/16.jpg)
 ![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/17.jpg)
 ![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/18.jpg)
-
+![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/19.jpg)
+#
 [Portfolio](https://www.theScottKrause.com) |
 [Github](https://github.com/neodigm) |
 [LinkedIn](https://www.linkedin.com/in/neodigm24/) |
