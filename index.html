@@ -53,7 +53,8 @@ section img{
 }
 </style>
 <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
-<link href="https://fonts.googleapis.com/css?family=Lobster&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://neodigm.github.io/pan-fried-monkey-fisticuffs/dist/panFriedMonkeyFisticuffs.min.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lobster&display=swap">
 
     </head>
     <body>
@@ -85,7 +86,7 @@ section img{
 <h3>Scott C. Krause</h3>
         </main>
 
-<pfmf-rv class="l-reveal reveal__init">
+<pfmf-rv class="QQQQl-reveal QQQQreveal__init">
     <div id="js-rev__mcsd--id" class="reveal-modal small" data-reveal aria-hidden="true">
         <a class="close-reveal-modal resp_x eml-msg__x">
         <svg fill="#FFF" height="48" viewBox="0 0 22 22" width="48" xmlns="http://www.w3.org/2000/svg"><path d="M0 0h24v24H0z" fill="none"/><path d="M14.59 8L12 10.59 9.41 8 8 9.41 10.59 12 8 14.59 9.41 16 12 13.41 14.59 16 16 14.59 13.41 12 16 9.41 14.59 8zM12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"/></svg>
@@ -109,56 +110,14 @@ section img{
         <script>
 
 var oD = document;
-var CnfState = {"audio": false};
-var AudioContext = window.AudioContext || false;
-if (AudioContext) {
-  CnfState.audio = true;    //    Icanuse
-  var oAudContx = new AudioContext();    //    HTML5 Audio
-  var oAJAXReq = new XMLHttpRequest();   //    Get Sounds
-  var aAudioBuffer = new Array(18);       //    Store Sound files
-  var fetchSoundConfig = {sound_max: 18, sound_current: 1};    //    Sound limits
-  setTimeout( function(){ fetchSound(); }, 5600);
-}
-function fetchSound() {
-    //    AJAX a single sound binary
-    oAJAXReq.open("GET", "au/a" + fetchSoundConfig.sound_current + ".mp3", true);
-    oAJAXReq.responseType = "arraybuffer";
-    oAJAXReq.send();
-    oAJAXReq.onload = fetchSoundonload;
-}
-function fetchSoundonload() {
-    //    The audio file has loaded via AJAX
-    oAudContx.decodeAudioData(oAJAXReq.response, function (decAudBuf) {
-        aAudioBuffer[ fetchSoundConfig.sound_current ] = decAudBuf;
-        fetchSoundConfig.sound_current = fetchSoundConfig.sound_current + 1;
-        if(fetchSoundConfig.sound_current <= fetchSoundConfig.sound_max){
-            oAJAXReq = new XMLHttpRequest();
-            oAJAXReq.responseType = "arraybuffer";
-            fetchSound( fetchSoundConfig.sound_current );
-        }
-    });
-};
-function playAudioFile( nSound ) {
-  if( CnfState.audio === true ){  //  Play MP3 if sound toggle is true
-    try{
-        nSound = nSound + 8;
-      var oSrc = oAudContx.createBufferSource();
-      var volume = oAudContx.createGain();
-      oSrc.buffer = aAudioBuffer[nSound];
-      oSrc.connect(volume);
-      volume.connect(oAudContx.destination);
-      oSrc.connect(oAudContx.destination);
-      oSrc.start(oAudContx.currentTime);
-    } catch( e ){}
-  }
-};
-function playAudioRand( aSound ){  //  Either Or | array | max 2
-  playAudioFile( aSound[Math.random()+.5|0]);
-}
-
-oD.addEventListener( "contextmenu", function(e) { playAudioFile( 7 ); });  //  On right-click
 
 console.log("%c Scott C. Krause ⚡ Problem Solver and Visual Storyteller", "background: #000; color: #f4dc5e; font-size: 28px");
+
+[].slice.call( oD.querySelectorAll(".portf img") ).filter(function(el){
+  el.addEventListener("click", function(ev){
+    alert("ducks");
+  }, true)
+});
 
         </script>
 <script type="application/ld+json">
