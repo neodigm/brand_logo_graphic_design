@@ -124,6 +124,7 @@ console.log("%c Scott C. Krause ⚡ Problem Solver and Visual Storyteller", "bac
 [].slice.call( oD.querySelectorAll(".portf img") ).filter(function(el){
   el.addEventListener("click", function(ev){
     oD.querySelector("#js-rev__portf--id img").src = ev.target.src;
+    playAudioFile(8);
     pfmfModal.autoOpen("js-rev__portf--id");
   }, true)
 });
