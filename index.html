@@ -121,7 +121,7 @@ var oD = document;
 
 console.log("%c Scott C. Krause ⚡ Problem Solver and Visual Storyteller", "background: #000; color: #f4dc5e; font-size: 28px");
 
-[].slice.call( oD.querySelectorAll(".portf img") ).filter(function(el){
+[].slice.call( oD.querySelectorAll(".portf img") ).filter(function(el){ // Loud Zoom on Click
   el.addEventListener("click", function(ev){
     oD.querySelector("#js-rev__portf--id img").src = ev.target.src;
     playAudioFile(8);
@@ -155,6 +155,7 @@ console.log("%c Scott C. Krause ⚡ Problem Solver and Visual Storyteller", "bac
     "https://twitter.com/neodigm24"]
   }
 </script>
+
 <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
 <script src="https://neodigm.github.io/pan-fried-monkey-fisticuffs/dist/panFriedMonkeyFisticuffs.min.js"></script>
     </body>
