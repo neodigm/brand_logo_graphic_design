@@ -23,6 +23,7 @@ A brief history of my logo and branded visual graphic designs.
 ![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/19.jpg)#
 #
 [Portfolio](https://www.theScottKrause.com) |
+[Blog](https://www.theScottKrause.com/WebAssembly) |
 [Github](https://github.com/neodigm) |
 [LinkedIn](https://www.linkedin.com/in/neodigm24/) |
 [Salesforce](https://trailblazer.me/id/skrause) |
