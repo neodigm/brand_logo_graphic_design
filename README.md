@@ -40,6 +40,11 @@ A brief history of my logo and branded visual graphic designs.
 #
 ![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/19.jpg)
 #
+![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/20.jpg)
+#
+![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/21.jpg)
+#
+![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/22.jpg)
 #
 [Portfolio](https://www.theScottKrause.com) |
 [Blog](https://www.theScottKrause.com/neodigm-wasm-golang) |
