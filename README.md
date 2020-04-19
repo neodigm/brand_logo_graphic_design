@@ -42,7 +42,7 @@ A brief history of my logo and branded visual graphic designs.
 #
 #
 [Portfolio](https://www.theScottKrause.com) |
-[Blog](https://www.theScottKrause.com/WebAssembly) |
+[Blog](https://www.theScottKrause.com/neodigm-wasm-golang) |
 [Github](https://github.com/neodigm) |
 [LinkedIn](https://www.linkedin.com/in/neodigm24/) |
 [Salesforce](https://trailblazer.me/id/skrause) |
