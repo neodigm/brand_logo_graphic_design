@@ -46,8 +46,7 @@ A brief history of my logo and branded visual graphic designs 🚀
 #
 ![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/22.jpg)
 #
-[Portfolio](https://www.theScottKrause.com) |
-[Blog](https://www.theScottKrause.com/neodigm-wasm-golang) |
+[Portfolio Blog](https://www.theScottKrause.com) |
 [NPM](https://www.npmjs.com/~neodigm) |
 [Github](https://github.com/neodigm) |
 [LinkedIn](https://www.linkedin.com/in/neodigm24/) |
@@ -56,4 +55,5 @@ A brief history of my logo and branded visual graphic designs 🚀
 [Machvive](https://machvive.com/) |
 [Arcanus 55](https://www.arcanus55.com/) |
 [Repl](https://repl.it/@neodigm) |
-[Twitter](https://twitter.com/neodigm24)
+[Twitter](https://twitter.com/neodigm24) |
+[Keybase](https://keybase.io/neodigm)
