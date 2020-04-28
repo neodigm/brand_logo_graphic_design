@@ -1,5 +1,7 @@
+*.svg linguist-detectable=false
 *.html linguist-detectable=false
 *.css linguist-detectable=false
 *.js linguist-detectable=true
+*.vue linguist-detectable=true
 *.ts linguist-detectable=true
 *.go linguist-detectable=true
