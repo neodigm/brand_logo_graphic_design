@@ -46,6 +46,10 @@ A brief history of my logo and branded visual graphic designs 🚀
 #
 ![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/22.jpg)
 #
+![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/23.gif)
+#
+![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/24.jpg)
+#
 [Portfolio Blog](https://www.theScottKrause.com) |
 [NPM](https://www.npmjs.com/~neodigm) |
 [Github](https://github.com/neodigm) |
