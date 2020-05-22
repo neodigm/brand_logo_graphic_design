@@ -54,6 +54,7 @@ A brief history of my logo and branded visual graphic designs 🚀
 [NPM](https://www.npmjs.com/~neodigm) |
 [Github](https://github.com/neodigm) |
 [LinkedIn](https://www.linkedin.com/in/neodigm24/) |
+[Gists](https://gist.github.com/neodigm) |
 [Salesforce](https://trailblazer.me/id/skrause) |
 [Code Pen](https://codepen.io/neodigm24) |
 [Machvive](https://machvive.com/) |
