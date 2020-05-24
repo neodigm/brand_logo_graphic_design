@@ -8,6 +8,8 @@ A brief history of my logo and branded visual graphic designs 🚀
 #
 ![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/3.jpg)
 #
+![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/23.gif)
+#
 ![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/4.jpg)
 #
 ![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/5.jpg)
@@ -45,8 +47,6 @@ A brief history of my logo and branded visual graphic designs 🚀
 ![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/21.jpg)
 #
 ![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/22.jpg)
-#
-![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/23.gif)
 #
 ![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/24.jpg)
 #
