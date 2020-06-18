@@ -4,7 +4,7 @@
 A brief history of my logo and branded visual graphic designs 🚀
 </p>
 #
-![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/1.jpg)
+![http://thescottkrause.com/](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/1.jpg)
 #
 ![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/2.jpg)
 #
