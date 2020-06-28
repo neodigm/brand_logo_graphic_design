@@ -52,6 +52,10 @@ A brief history of my logo and branded visual graphic designs 🚀
 #
 ![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/24.jpg)
 #
+![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/25.jpg)
+#
+![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/26.jpg)
+#
 [Portfolio Blog](https://www.theScottKrause.com) |
 [NPM](https://www.npmjs.com/~neodigm) |
 [Github](https://github.com/neodigm) |
@@ -63,6 +67,6 @@ A brief history of my logo and branded visual graphic designs 🚀
 [Arcanus 55](https://www.arcanus55.com/) |
 [Repl](https://repl.it/@neodigm) |
 [Twitter](https://twitter.com/neodigm24) |
-[Keybase](https://keybase.io/neodigm)
+[Keybase](https://keybase.io/neodigm) |
 [W3C](https://www.w3.org/users/123844)
 #
