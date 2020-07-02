@@ -57,6 +57,7 @@ A brief history of my logo and branded visual graphic designs 🚀
 ![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/26.jpg)
 #
 [Portfolio Blog](https://www.theScottKrause.com) |
+[🚀 Résumé](https://thescottkrause.com/Aardvark_Scott_C_Krause_2020.pdf) |
 [NPM](https://www.npmjs.com/~neodigm) |
 [Github](https://github.com/neodigm) |
 [LinkedIn](https://www.linkedin.com/in/neodigm24/) |
