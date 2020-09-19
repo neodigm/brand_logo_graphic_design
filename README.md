@@ -1,5 +1,5 @@
 [![License: BSD](https://badgen.net/badge/license/BSD/orange)](https://opensource.org/licenses/BSD-3-Clause)
-# brand_logo_graphic_design
+![https://neodigm.github.io/brand_logo_graphic_design/](Brand logo graphic design)
 
 <p align="center">
 A brief history of my logo and branded visual graphic designs 🚀
@@ -54,6 +54,8 @@ A brief history of my logo and branded visual graphic designs 🚀
 ![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/24.jpg)
 #
 ![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/25.jpg)
+#
+![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/26.jpg)
 #
 ![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/26.jpg)
 #
