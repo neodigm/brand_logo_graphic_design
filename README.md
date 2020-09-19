@@ -1,5 +1,4 @@
 [![License: BSD](https://badgen.net/badge/license/BSD/orange)](https://opensource.org/licenses/BSD-3-Clause)
-![Brand logo graphic design](https://neodigm.github.io/brand_logo_graphic_design/)
 
 <p align="center">
 A brief history of my logo 🍰 branded visual graphic designs 🚀
@@ -57,10 +56,10 @@ A brief history of my logo 🍰 branded visual graphic designs 🚀
 #
 ![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/26.jpg)
 #
-![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/26.jpg)
+![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/the_legend_of_tacocat.jpg)
 #
 [Portfolio Blog](https://www.theScottKrause.com) |
-[🚀 Résumé](https://thescottkrause.com/Aardvark_Scott_C_Krause_2020.pdf) |
+[🚀 Résumé](https://thescottkrause.com/Arcanus_Scott_C_Krause_2020.pdf) |
 [NPM](https://www.npmjs.com/~neodigm) |
 [Github](https://github.com/neodigm) |
 [LinkedIn](https://www.linkedin.com/in/neodigm24/) |
