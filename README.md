@@ -48,8 +48,6 @@ A brief history of my logo 🍰 branded visual graphic designs 🚀
 #
 ![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/21.jpg)
 #
-![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/22.jpg)
-#
 ![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/24.jpg)
 #
 ![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/25.jpg)
@@ -73,3 +71,9 @@ A brief history of my logo 🍰 branded visual graphic designs 🚀
 [Keybase](https://keybase.io/neodigm) |
 [W3C](https://www.w3.org/users/123844)
 #
+
+<p align="center">
+  <a target="_blank" href="https://thescottkrause.com/d3_datavis_skills.html">
+  <img src="https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/22.jpg" title="D3js Skills with Audio">
+  </a>
+</p>
