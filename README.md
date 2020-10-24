@@ -74,6 +74,6 @@ A brief history of my logo 🍰 branded visual graphic designs 🚀
 
 <p align="center">
   <a target="_blank" href="https://thescottkrause.com/d3_datavis_skills.html">
-  <img src="https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/22.jpg" title="D3js Skills with Audio">
+  <img src=""https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/22.jpg" title="D3js Skills with Audio 🦄 Creative, Business, and Tech ⚡">
   </a>
 </p>
