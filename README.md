@@ -36,7 +36,7 @@ A brief history of my logo 🍰 branded visual graphic designs 🚀
 [🚀 Résumé](https://thescottkrause.com/Arcanus_Scott_C_Krause_2020.pdf) |
 [NPM](https://www.npmjs.com/~neodigm) |
 [Github](https://github.com/neodigm) |
-[LinkedIn](https://www.linkedin.com/in/neodigm24/) |
+[LinkedIn](https://www.linkedin.com/in/neodigm55/) |
 [Gists](https://gist.github.com/neodigm) |
 [Salesforce](https://trailblazer.me/id/skrause) |
 [Code Pen](https://codepen.io/neodigm24) |
