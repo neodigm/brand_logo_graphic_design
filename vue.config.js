@@ -1,4 +1,4 @@
 module.exports = {
-  lintOnSave: false,
+  lintOnSave: true,
   publicPath: '',
 };
