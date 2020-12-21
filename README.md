@@ -30,6 +30,7 @@ A brief history of my logo 🍰 branded visual graphic designs 🚀
 ![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/24.webp)
 ![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/25.webp)
 ![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/26.webp)
+![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/27.webp)
 ![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/the_legend_of_tacocat.jpg)
 #
 [Portfolio Blog](https://www.theScottKrause.com) |
