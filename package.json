@@ -1,6 +1,6 @@
 {
   "name": "scott_c_krause_neodigm",
-  "version": "5.5.2",
+  "version": "5.5.4",
   "description": "UX artisan ⚡ illustrator ⚡ front-end engineer",
   "main": "vue_threejs_wasm.js",
   "scripts": {
@@ -19,7 +19,8 @@
     "Three.js",
     "vue.js",
     "GraphQL",
-    "PostgreSQL"
+    "PostgreSQL",
+    "Canvas"
   ],
   "author": "Scott C. Krause",
   "license": "ISC",
@@ -49,6 +50,7 @@
     "bluebird": "^3.7.2",
     "body-parser": "^1.19.0",
     "bootstrap": "^4.5.3",
+    "canvas-sketch-cli": "^1.11.12",
     "chai": "^4.2.0",
     "chalk": "^4.1.0",
     "cheerio": "^1.0.0-rc.3",
@@ -119,6 +121,7 @@
     "superagent": "^6.1.0",
     "through2": "^4.0.2",
     "tink-crypto": "^0.1.0",
+    "tsdx": "^0.14.1",
     "tslib": "^2.0.3",
     "typescript": "^4.0.3",
     "underscore": "^1.11.0",
