@@ -5,21 +5,21 @@
 </p>
 
 <p align="center">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvd.svg" width="66" alt="Vivid Vector Skulduggery">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vve.svg" width="66" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvd.svg" width="66" alt="Renaissance Man Weaponeered Poetry">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vve.svg" width="66" alt="Clockwork Clever Tricknology">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvl.svg" width="66" alt="Vivid Vector Skulduggery">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvi.svg" width="66" alt="Vivid Vector Skulduggery">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvr.svg" width="66" alt="Vivid Vector Skulduggery">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvi.svg" width="66" alt="Vivid Vector Skulduggery">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvo.svg" width="66" alt="Vivid Vector Skulduggery">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvu.svg" width="66" alt="Vivid Vector Skulduggery">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvs.svg" width="66" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvi.svg" width="66" alt="Vivid Vector indelible">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvr.svg" width="66" alt="bloom with the fragrance of mischief">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvi.svg" width="66" alt="Vivid Vector Preeminent">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvo.svg" width="66" alt="A bare-knuckle bucket of does">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvu.svg" width="66" alt="A meticulous merger of form and function.">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvs.svg" width="66" alt="A technically superior interior wrapped in a sophisticated exterior.">
 <br>
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvs.svg" width="66" alt="Vivid Vector Skulduggery">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvt.svg" width="66" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvs.svg" width="66" alt="Batteries Included">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvt.svg" width="66" alt="Best of breed">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvu.svg" width="66" alt="Vivid Vector Skulduggery">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvn.svg" width="66" alt="Vivid Vector Skulduggery">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvn.svg" width="66" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvn.svg" width="66" alt="Budapest by Blimp">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvn.svg" width="66" alt="Clarity Versus Chaos">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvi.svg" width="66" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvn.svg" width="66" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvg.svg" width="66" alt="Vivid Vector Skulduggery">
