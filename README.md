@@ -20,15 +20,15 @@
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvu.svg" width="66" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvn.svg" width="66" alt="Budapest by Blimp">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvn.svg" width="66" alt="Clarity Versus Chaos">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvi.svg" width="66" alt="Vivid Vector Skulduggery">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvn.svg" width="66" alt="Vivid Vector Skulduggery">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvg.svg" width="66" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvi.svg" width="66" alt="Clever Clevorvoyant">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvn.svg" width="66" alt="Clockwork Clevor">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvg.svg" width="66" alt="Vivid Vector Compel">
 <br>
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvd.svg" width="66" alt="Vivid Vector Skulduggery">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vva.svg" width="66" alt="Vivid Vector Skulduggery">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvz.svg" width="66" alt="Vivid Vector Skulduggery">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvz.svg" width="66" alt="Vivid Vector Skulduggery">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvl.svg" width="66" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vva.svg" width="66" alt="Counter Clock Wise">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvz.svg" width="66" alt="Design is content not garish">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvz.svg" width="66" alt="Digital Alchemy">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvl.svg" width="66" alt="Electrokinetic propulsion ion wind">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvi.svg" width="66" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvn.svg" width="66" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvg.svg" width="66" alt="Vivid Vector Skulduggery">
