@@ -14,7 +14,7 @@
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvo.svg" width="66" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvu.svg" width="66" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvs.svg" width="66" alt="Vivid Vector Skulduggery">
-&nbsp;
+<br>
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvs.svg" width="66" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvt.svg" width="66" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvu.svg" width="66" alt="Vivid Vector Skulduggery">
@@ -23,14 +23,16 @@
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvi.svg" width="66" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvn.svg" width="66" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvg.svg" width="66" alt="Vivid Vector Skulduggery">
-&nbsp;
+<br>
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvs.svg" width="66" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvo.svg" width="66" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvr.svg" width="66" alt="Vivid Vector Skulduggery">
+  <br>
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvg.svg" width="66" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vve.svg" width="66" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvo.svg" width="66" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvu.svg" width="66" alt="Vivid Vector Skulduggery">
+  <br>
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvs.svg" width="66" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvd.svg" width="66" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vva.svg" width="66" alt="Vivid Vector Skulduggery">
@@ -40,6 +42,7 @@
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvi.svg" width="66" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvn.svg" width="66" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvg.svg" width="66" alt="Vivid Vector Skulduggery">
+  <br>
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvb.svg" width="66" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvr.svg" width="66" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvi.svg" width="66" alt="Vivid Vector Skulduggery">
