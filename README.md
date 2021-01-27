@@ -1,7 +1,7 @@
 [![License: BSD](https://badgen.net/badge/license/BSD/orange)](https://opensource.org/licenses/BSD-3-Clause)
 
 <p align="center">
-🍰 A brief history of my logo branded visual graphic designs 🚀
+🍰 A brief history of my logo branded visual graphic designs 🚀 <br><br>
 </p>
 
 
