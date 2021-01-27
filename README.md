@@ -4,6 +4,7 @@
 🍰 A brief history of my logo branded visual graphic designs 🚀
 </p>
 
+
 <p align="center">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvd.svg" width="44" alt="Renaissance Man Weaponeered Poetry">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vve.svg" width="44" alt="Clockwork Clever Tricknology">
