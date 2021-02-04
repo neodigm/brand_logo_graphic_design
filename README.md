@@ -71,6 +71,7 @@
 ![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/27.webp)
 ![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/28.webp)
 ![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/the_legend_of_tacocat.jpg)
+![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/skills_graph_cy.webp)
 #
 [Portfolio Blog](https://www.theScottKrause.com) |
 [🚀 Résumé](https://thescottkrause.com/Arcanus_Scott_C_Krause_2020.pdf) |
