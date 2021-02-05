@@ -3,7 +3,7 @@
 <p align="center">🍰 A brief history of my logo branded visual graphic designs 🚀<br><br></p>
 
 <p align="center">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvd.svg" width="44" alt="Renaissance Man Weaponeered Poetry">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvd.svg" width="44" alt="Renaissance Man Weaponeered">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vve.svg" width="44" alt="Clockwork Clever Tricknology">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvl.svg" width="44" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvi.svg" width="44" alt="Vivid Vector indelible">
@@ -22,7 +22,7 @@
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvn.svg" width="44" alt="Clockwork Clevor">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvg.svg" width="44" alt="Vivid Vector Compel">
 <br>
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvd.svg" width="44" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvd.svg" width="44" alt="Vivid Vector">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vva.svg" width="44" alt="Counter Clock Wise">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvz.svg" width="44" alt="Design is content not garish">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvz.svg" width="44" alt="Digital Alchemy">
