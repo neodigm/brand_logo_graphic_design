@@ -70,6 +70,9 @@
 ![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/26.webp)
 ![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/27.webp)
 ![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/28.webp)
+![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/29.webp)
+![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/30.webp)
+![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/31.webp)
 ![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/the_legend_of_tacocat.jpg)
 ![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/skills_graph_cy.webp)
 #
