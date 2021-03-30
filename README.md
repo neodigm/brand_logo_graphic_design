@@ -1,6 +1,6 @@
 [![License: BSD](https://badgen.net/badge/license/BSD/orange)](https://opensource.org/licenses/BSD-3-Clause)
 
-<p align="center">A brief history of my logo branded visual graphic designs<br>Creative ⚡ Business ⚡ Technical Agility<br></p>
+<p align="center">A brief history of my logo branded visual graphic designs<br>Creative ⚡ Business ⚡ [Technical Agility[(https://www.thescottkrause.com/tags/curated/)<br></p>
 
 <p align="center">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvd.svg" width="44" alt="Renaissance Man Weaponeered">
