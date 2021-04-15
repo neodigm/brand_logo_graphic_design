@@ -16,7 +16,7 @@
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvs.svg" width="44" alt="Batteries Included">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvt.svg" width="44" alt="Best of breed">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvu.svg" width="44" alt="Electra Glide Safron">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvn.svg" width="44" alt="Budapest by Blimp">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvn.svg" width="44" alt="Budapest by Blimp Creative ⚡ Business ⚡ Technical Agility">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvn.svg" width="44" alt="Clarity Versus Chaos Creative ⚡ Business ⚡ Technical Agility">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvi.svg" width="44" alt="Clever Clevorvoyant">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvn.svg" width="44" alt="Clockwork Clevor">
