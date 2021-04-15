@@ -8,7 +8,7 @@
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvl.svg" width="44" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvi.svg" width="44" alt="Vivid Vector indelible">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvr.svg" width="44" alt="bloom with the fragrance of mischief">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvi.svg" width="44" alt="Vivid Vector Preeminent">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvi.svg" width="44" alt="Vivid Vector Preeminent Creative ⚡ Business ⚡ Technical Agility">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvo.svg" width="44" alt="A bare-knuckle bucket of does">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvu.svg" width="44" alt="A meticulous merger of form and function.">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvs.svg" width="44" alt="A technically superior interior wrapped in a sophisticated exterior.">
