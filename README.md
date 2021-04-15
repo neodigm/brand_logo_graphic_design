@@ -34,7 +34,7 @@
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvb.svg" width="44" alt="Inventive Glide">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvr.svg" width="44" alt="Breathtaking Crave">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvi.svg" width="44" alt="Feasible Impossibilities">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvl.svg" width="44" alt="Evoked Potential">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvl.svg" width="44" alt="Evoked PotentialCreative ⚡ Business ⚡ Technical Agility">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvl.svg" width="44" alt="enigmatic doppelganger">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvi.svg" width="44" alt="vessel of quasi-religious longing">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vva.svg" width="44" alt="Fashion mag shoots">
