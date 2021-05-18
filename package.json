@@ -21,7 +21,8 @@
     "GraphQL",
     "PostgreSQL",
     "Canvas",
-    "Scala"
+    "Scala",
+    "nest.js"
   ],
   "author": "Scott C. Krause",
   "license": "ISC",
