@@ -20,7 +20,8 @@
     "vue.js",
     "GraphQL",
     "PostgreSQL",
-    "Canvas"
+    "Canvas",
+    "Scala"
   ],
   "author": "Scott C. Krause",
   "license": "ISC",
