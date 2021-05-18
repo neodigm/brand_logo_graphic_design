@@ -22,7 +22,8 @@
     "PostgreSQL",
     "Canvas",
     "Scala",
-    "nest.js"
+    "nest.js",
+    "cytoscape"
   ],
   "author": "Scott C. Krause",
   "license": "ISC",
