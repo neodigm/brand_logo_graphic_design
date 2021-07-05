@@ -98,3 +98,10 @@
   <img src="https://repository-images.githubusercontent.com/178555357/2b6ad880-7aa0-11ea-8dde-63e70187e3e9" title="✨ Cypress && JavaScript && TypeScript && Go 🪐">
   </a>
 </p>
+
+<p align="center">
+	<a target="_blank" href="https://www.thescottkrause.com">
+		<img src="https://neodigm.github.io/pan-fried-monkey-fisticuffs/thescottkrause_contact_card.png" title="Three.js 🚀 TypeScript 🍭 WASM ✨ Go">
+	</a>
+</p>
+
