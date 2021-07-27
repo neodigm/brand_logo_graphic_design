@@ -90,7 +90,7 @@
 [Twitter](https://twitter.com/neodigm24) |
 [Keybase](https://keybase.io/neodigm) |
 [W3C](https://www.w3.org/users/123844) | 
-[InfoSec](https://www.arcanus55.medium.com/offline-vs-cloud-password-managers-51b1fbebe301)
+[InfoSec](https://arcanus55.medium.com/offline-vs-cloud-password-managers-51b1fbebe301)
 #
 
 <p align="center">
