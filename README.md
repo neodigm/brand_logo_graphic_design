@@ -20,7 +20,7 @@
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvn.svg" width="44" alt="Clarity Versus Chaos Creative ⚡ Business ⚡ Technical Agility">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvi.svg" width="44" alt="Clever Clevorvoyant🌑🌒🌓🌔🌕🌖🌗🌘🌑 ">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvn.svg" width="44" alt="Clockwork Clevor">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvg.svg" width="44" alt="Vivid Vector Compel">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvg.svg" width="44" alt="Vivid Vector Infographics ✨ UX PWA Typescript Svelte ThreeJS Vue">
 <br>
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvd.svg" width="44" alt="Vivid Vector">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vva.svg" width="44" alt="Counter Clock Wise">
