@@ -78,6 +78,7 @@
 #
 [Portfolio Blog](https://www.theScottKrause.com) |
 [UX micro-library](https://thescottkrause.com/emerging_tech/neodigm55_ux_library/) |
+[Neodigm UX Wiki](https://github.com/arcanus55/neodigm55/wiki/Cheat-Cheet) | 
 [NPM](https://www.npmjs.com/~neodigm) |
 [🚀 Résumé](https://thescottkrause.com/Arcanus_Scott_C_Krause_2022.pdf) |
 [NPM](https://www.npmjs.com/~neodigm) |
