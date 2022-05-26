@@ -77,6 +77,9 @@
 ![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/skills_graph_cy.webp)
 #
 [Portfolio Blog](https://www.theScottKrause.com) |
+[UX micro-library](https://thescottkrause.com/emerging_tech/neodigm55_ux_library/) |
+[Neodigm UX Wiki](https://github.com/arcanus55/neodigm55/wiki/Cheat-Cheet) | 
+[NPM](https://www.npmjs.com/~neodigm) |
 [🚀 Résumé](https://thescottkrause.com/Arcanus_Scott_C_Krause_2022.pdf) |
 [NPM](https://www.npmjs.com/~neodigm) |
 [Github](https://github.com/neodigm) |
@@ -99,7 +102,6 @@
   </a>
 </p>
 
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/neodigm/vue_voyagers)
 <p align="center">
   <a target="_blank" href="https://www.thescottkrause.com">
     <img src="https://neodigm.github.io/pan-fried-monkey-fisticuffs/thescottkrause_contact_card.png" title="DataVis 👁️ UX 🍭 PWA 👁️ ThreeJS">
