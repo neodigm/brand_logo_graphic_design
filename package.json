@@ -53,7 +53,7 @@
     "bluebird": "^3.7.2",
     "body-parser": "^1.19.0",
     "bootstrap": "^4.5.3",
-    "canvas-sketch-cli": "^1.11.12",
+    "canvas-sketch-cli": "^1.11.20",
     "chai": "^4.2.0",
     "chalk": "^4.1.0",
     "cheerio": "^1.0.0-rc.3",
