@@ -1,5 +1,3 @@
-[![License: BSD](https://badgen.net/badge/license/BSD/orange)](https://opensource.org/licenses/BSD-3-Clause)
-
 <p align="center">A brief history of my logo branded visual graphic designs<br>Creative ⚡ Business ⚡ <a href="https://www.thescottkrause.com/tags/curated/">Technical Agility</a><br></p>
 
 <p align="center">
