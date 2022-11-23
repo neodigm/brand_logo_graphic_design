@@ -113,7 +113,7 @@
     "sass-loader": "^10.0.3",
     "semver": "^7.3.2",
     "shelljs": "^0.8.4",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.5.0",
     "style-loader": "^2.0.0",
     "styled-components": "^5.2.0",
     "superagent": "^6.1.0",
