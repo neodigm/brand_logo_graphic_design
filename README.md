@@ -42,7 +42,7 @@
 
 ![http://thescottkrause.com/](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/1.jpg)
 
-![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/2.webp)
+![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/41.webp)
 ![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/3.webp)
 ![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/23.gif)
 ![](https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/4.webp)
