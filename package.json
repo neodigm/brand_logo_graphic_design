@@ -86,7 +86,7 @@
     "mkdirp": "^1.0.4",
     "mocha": "^8.4.0",
     "moment": "^2.29.1",
-    "mongodb": "^3.6.2",
+    "mongodb": "^3.6.10",
     "mongoose": "^5.13.20",
     "morgan": "^1.10.0",
     "node-fetch": "^2.6.1",
