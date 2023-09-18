@@ -37,7 +37,7 @@
     "@types/node": "^14.11.8",
     "async": "^3.2.0",
     "autoprefixer": "^10.0.1",
-    "aws-amplify": "^3.3.4",
+    "aws-amplify": "^5.3.3",
     "aws-sdk": "^2.772.0",
     "axios": "^0.20.0",
     "babel-core": "^6.26.3",
