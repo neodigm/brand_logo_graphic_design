@@ -27,7 +27,7 @@
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvl.svg" width="44" alt="Electrokinetic propulsion ion wind">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvi.svg" width="44" alt="Electra Glide">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvn.svg" width="44" alt="safron and ginger">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvg.svg" width="44" alt="stratagem tapestry">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvg.svg" width="44" alt="stratagem tapestry Infographics UX PWA SolidJS ThreeJS Vue ✨ HTMX">
 <br>
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvb.svg" width="44" alt="Inventive Glide 🏖️ Inspired Problem Solver 🚀 Visual Storyteller">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvr.svg" width="44" alt="Breathtaking Crave">
