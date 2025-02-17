@@ -84,7 +84,7 @@
     "lodash": "^4.17.20",
     "minimist": "^1.2.5",
     "mkdirp": "^1.0.4",
-    "mocha": "^8.4.0",
+    "mocha": "^11.1.0",
     "moment": "^2.29.1",
     "mongodb": "^3.6.2",
     "mongoose": "^8.9.5",
