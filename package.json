@@ -81,7 +81,7 @@
     "jquery": "^3.5.1",
     "js-yaml": "^3.14.0",
     "jsonwebtoken": "^9.0.0",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.23",
     "minimist": "^1.2.5",
     "mkdirp": "^1.0.4",
     "mocha": "^11.1.0",
