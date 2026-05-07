@@ -87,7 +87,7 @@
     "mocha": "^11.1.0",
     "moment": "^2.29.1",
     "mongodb": "^3.6.2",
-    "mongoose": "^8.9.5",
+    "mongoose": "^8.22.1",
     "morgan": "^1.10.1",
     "node-fetch": "^2.6.1",
     "node-sass": "^9.0.0",
