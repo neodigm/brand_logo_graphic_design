@@ -75,7 +75,7 @@
     "handlebars": "^4.7.9",
     "html-webpack-plugin": "^4.5.0",
     "immutable": "^4.0.0-rc.12",
-    "inquirer": "^7.3.3",
+    "inquirer": "^14.0.0",
     "jest": "^29.7.0",
     "joi": "^17.2.1",
     "jquery": "^3.5.1",
