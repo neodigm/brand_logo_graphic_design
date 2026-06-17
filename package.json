@@ -129,7 +129,7 @@
     "webpack": "^5.94.0",
     "webpack-dev-server": "^5.0.4",
     "winston": "^3.3.3",
-    "ws": "^7.5.10",
+    "ws": "^7.5.11",
     "xml2js": "^0.4.23",
     "yargs": "^16.0.3",
     "yeoman-generator": "^7.3.2",
