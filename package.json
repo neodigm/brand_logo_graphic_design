@@ -121,7 +121,7 @@
     "tink-crypto": "^0.1.0",
     "tslib": "^2.0.3",
     "typescript": "^4.0.3",
-    "underscore": "^1.11.0",
+    "underscore": "^1.13.8",
     "url-loader": "^4.1.1",
     "uuid": "^8.3.1",
     "vue": "^2.6.12",
